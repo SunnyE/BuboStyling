@@ -1,0 +1,32 @@
+#homepageNav {
+    height: 15%;
+    background-color: black;
+    opacity: 0.6;
+}
+
+body {
+    background: url("../img/blueMountains.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    /*background-image: url("../img/blueMountains.jpg") no-repeat ;
+    background-size: ;
+    background-repeat: no-repeat;*/
+    
+}
+
+#siteName{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 125px;
+    padding: none;
+    margin-top:0;
+    display: inline-block;
+    color: yellow
+}
+
+#signButton{
+    float: right;
+    display: inline-block;
+    opacity: 1;
+}
